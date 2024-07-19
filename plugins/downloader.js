@@ -276,7 +276,7 @@ smd({
         let _0x13ee38 = await getBuffer(_0x3c2608);
         await _0x19df48.reply(_0x13ee38, {
           packname: Config.packname,
-          author: "A N I T A"
+          author: "𝑴𝑨𝑹𝑰𝑺𝑬𝑳"
         }, "sticker");
       } else {
         await _0x19df48.bot.sendMessage(_0x19df48.chat, {
@@ -457,7 +457,7 @@ smd({
   try {
     let _0x59e849 = _0x1c586e ? _0x1c586e : _0x1ae8f8.reply_message ? _0x1ae8f8.reply_message.text : "";
     if (!_0x1c586e) {
-      return await _0x1ae8f8.reply("*Provide Repo Url, _.gitclone https://github.com/DeeCeeXxx/Queen_Anita-V2_*");
+      return await _0x1ae8f8.reply("*Provide Repo Url, _.gitclone https://github.com/Marisel-1*");
     }
     const _0x5906ab = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i;
     if (!_0x5906ab.test(_0x1c586e)) {
@@ -518,7 +518,7 @@ smd({
   try {
     let _0x204f81 = _0x55aba2.reply_text ? _0x55aba2.reply_text : _0x56da6b;
     if (!_0x204f81) {
-      return _0x55aba2.reply("*_Example : .tts Hi,I am QUEEN_ANITA-V2 whatsapp bot._*");
+      return _0x55aba2.reply("*_Example : .tts Hi,I am 𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳 whatsapp bot._*");
     }
     try {
       let _0x1974d5 = _0x56da6b ? _0x56da6b.split(" ")[0].toLowerCase() : "en";
@@ -549,7 +549,7 @@ smd({
         },
         mimetype: "audio/mpeg",
         ptt: true,
-        fileName: "Anita-tts.m4a"
+        fileName: "𝑴𝑨𝑹𝑰𝑺𝑹𝑳.m4a"
       }, {
         quoted: _0x55aba2
       });
@@ -625,7 +625,7 @@ smd({
       _0x4195ce.on("finish", _0x3fc982);
     });
     var _0x3048ab = {
-      ...(await _0xe5ea97.bot.contextInfo(Config.botname, "ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ"))
+      ...(await _0xe5ea97.bot.contextInfo(Config.botname, "𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳"))
     };
     let _0x3d0cf7 = {
       [_0x5b10f0]: fs.readFileSync(_0x5d70e6),
@@ -655,9 +655,9 @@ smd({
       };
       let _0x3e3caf = await yt.download(_0x421809[1], _0x3d6d42);
       var _0x3048ab = {
-        ...(await _0xe5ea97.bot.contextInfo(Config.botname, "ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ"))
+        ...(await _0xe5ea97.bot.contextInfo(Config.botname, "𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳"))
       };
-      let _0x3448d2 = _0x4e4465.title || _0x3e3caf || _0x421809[1] || "QUEEN_ANITA-V2 -- YT Video";
+      let _0x3448d2 = _0x4e4465.title || _0x3e3caf || _0x421809[1] || "𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳 -- YT Video";
       if (_0x3e3caf) {
         await _0xe5ea97.bot.sendMessage(_0xe5ea97.chat, {
           [_0x5b10f0]: {
