@@ -21,7 +21,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## 𝗞𝗶𝗻𝗴 𝗠𝗮𝗿𝗶𝘀𝗲𝗹 Deployment Methods
+ ## 𝙆𝙄𝙉𝙂 𝙈𝘼𝙍𝙄𝙎𝙀𝙇 𝘿𝙍𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎
 
 ### 1. FORK THIS REPO
 
