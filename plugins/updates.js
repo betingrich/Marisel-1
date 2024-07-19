@@ -351,7 +351,7 @@ let {
        document: fs.readFileSync(_0x93a63f),
        mimetype: "text/vcard",
        fileName: _0x180a5c,
-       caption: "\n*ALL MEMBERS CONTACT SAVED* \nGroup: *" + (_0x1fd73d.subject?.split("\n").join(" ") || _0x1fd73d.subject) + "*\nContact: *" + _0x1fd73d.participants.length + "*\n"
+       caption: "\n*𝑨𝑳𝑳 𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑺 𝑺𝑨𝑽𝑬𝑫* \nGroup: *" + (_0x1fd73d.subject?.split("\n").join(" ") || _0x1fd73d.subject) + "*\nContact: *" + _0x1fd73d.participants.length + "*\n"
      }, {
        ephemeralExpiration: 86400,
        quoted: _0x173fc2
