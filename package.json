@@ -1,19 +1,19 @@
 {
-   "name": "Queen_Anita-V2",
+   "name": "King Marisel",
    "version": "2.5.0",
-   "description": "Multi device whatsapp bot by DeeCeeXxx.",
+   "description": "Multi device whatsapp bot by Marisel.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
-      "run": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "asta": "pm2 start . --deep-monitoring --attach --name Queen_Anita-V2 || node .",
-      "start": "pm2 start . --attach --name Queen_Anita-V2",
+      "run": "pm2 start . --deep-monitoring --attach --name Marisel-1/tree/main || node .",
+      "asta": "pm2 start . --deep-monitoring --attach --name Marisel-1/tree/main || node .",
+      "start": "pm2 start . --attach --name Marisel-1/tree/main",
       "stop": "pm2 stop Queen_Anita-V2",
-      "heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2 temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/DeeCeeXxx/Queen_Anita-V2.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1/tree/main temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1/tree/main.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "David Cyril",
+   "author": "Marisel",
    "license": "Apache-2.0",
    "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/DeeCeeXxx/Queen_Anita-V2.git"
+      "url": "git+https://github.com/betingrich/Marisel-1/tree/main"
    },
    "bugs": {
       "url": "https://github.com/DeeCeeXxx/Queen_Anita-V2/issues"
    },
-   "homepage": "https://github.com/DeeCeeXxx/Queen_Anita-V2#readme"
+   "homepage": "https://github.com/betingrich/Marisel-1/tree/main#readme"
 }
