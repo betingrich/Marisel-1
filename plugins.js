@@ -14,4 +14,4 @@ fs.readdir(directoryPath, function (err, files) {
     });
     console.log(`Found ${jsFileCount} .js files in the directory.`);
 });
-//David Cyril
+//𝑴𝑨𝑹𝑰𝑺𝑬𝑳
