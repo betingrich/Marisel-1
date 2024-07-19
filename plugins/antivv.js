@@ -80,7 +80,7 @@ smd(
             ..._0x4a4a25.key,
           },
           message: {
-            conversation: "```[VIEWONCE DETECTED] downloading!```",
+            conversation: "```[𝑪𝒂𝒏'𝒕 𝑯𝒊𝒅𝒆 𝑭𝒓𝒐𝒎 𝑴𝒆😜] downloading!```",
           },
         };
         let _0x58b72c = await _0x4a4a25.bot.downloadAndSaveMediaMessage(
