@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `QUEEN_ANITA-V2 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L\n\n ${Config.botname} *©David Cyril*`;
+    const channelMessage = `𝙆𝙞𝙣𝙜 𝙈𝙖𝙧𝙞𝙨𝙚𝙡 ♕\n\n _\n *𝙆𝙞𝙣𝙜:* https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x\n\n ${Config.botname} *✢𝙈𝙖𝙧𝙞𝙨𝙚𝙡*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `*SUPPORT DAVID CYRIL*\n\n OPay Bank: OPay Digital Services Limited(OPay)\n\n OPay Account: 9066528353\n\n *Support The Developer*2\n\n ${Config.botname} *David*`;
+    const SupportMsg = `*𝙆𝙞𝙣𝙜 𝙈𝙖𝙧𝙞𝙨𝙚𝙡*\n\n OPay Bank: OPay Digital Services Limited(OPay)\n\n OPay Account: 9066528353\n\n *Support The Developer*2\n\n ${Config.botname} *𝙈𝙖𝙧𝙞𝙨𝙚𝙡*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -150,7 +150,7 @@ smd(
    filename: __filename
  }, async _0x17bb63 => {
    try {
-     let _0x12a593 = "*QUEEN_ANITA-V2 CURRENTLY ACTIVE!*";
+     let _0x12a593 = "*𝙆𝙞𝙣𝙜 𝙈𝙖𝙧𝙞𝙨𝙚𝙡 𝙞𝙨 𝘼𝙘𝙩𝙞𝙫𝙚!*";
      await _0x17bb63.reply(_0x12a593, {
        contextInfo: {
          externalAdReply: {
@@ -281,7 +281,7 @@ smd(
          edit: _0x2d7cf6
        }, "asta", _0x4e7c63);
      } catch (_0x28ce7e) {}
-     let _0x50f17a = " *乂 𝙏𝙊𝙓𝙓𝙄𝘾 𝙈𝘿 - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+     let _0x50f17a = " *乂 𝙈𝙖𝙧𝙞𝙨𝙚𝙡 𝙈𝘿- ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
      await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
        requestPaymentMessage: {
          currencyCodeIso4217: "NG",
