@@ -34,8 +34,8 @@ smd(
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *QUEEN_ANITA-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
-╭──❰ *ALL MENU* ❱ 
+      \n *𝙆𝙞𝙣𝙜 𝙈𝙖𝙧𝙞𝙨𝙚𝙡 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+╭──❰ *𝘼𝙇𝙇 𝙈𝙀𝙉𝙐* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
 │🎗 Hᴇʟᴘ 
