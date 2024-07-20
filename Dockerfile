@@ -1,10 +1,10 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/betingrich/Marisel-1/root/bettingrich
+RUN git clone https://github.com/betingrich/Marisel-1/tree/main
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/bettingrich/node_modules
+RUN rm -rf /tree/main/node_modules
 
 # Install dependencies
 WORKDIR /root/bettingrich
