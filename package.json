@@ -7,10 +7,10 @@
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name Marisel-1/tree/main || node .",
       "asta": "pm2 start . --deep-monitoring --attach --name Marisel-1/tree/main || node .",
-      "start": "pm2 start . --attach --name Marisel-1/tree/main",
-      "stop": "pm2 stop Queen_Anita-V2",
-      "heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1/tree/main temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
-      "fis-heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1/tree/main.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
+      "start": "pm2 start . --attach --name Marisel-1",
+      "stop": "pm2 stop Marisel-1",
+      "heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1/main temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
+      "fis-heroku-postbuild": "git clone https://github.com/betingrich/Marisel-1.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Marisel",
@@ -75,10 +75,10 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/betingrich/Marisel-1/tree/main"
+      "url": "git+https://github.com/betingrich/Marisel-1"
    },
    "bugs": {
-      "url": "https://github.com/DeeCeeXxx/Queen_Anita-V2/issues"
+      "url": "https://github.com/betingrich/Marisel-1/issues"
    },
-   "homepage": "https://github.com/betingrich/Marisel-1/tree/main#readme"
+   "homepage": "https://github.com/betingrich/Marisel-1/main#readme"
 }
